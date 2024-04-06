@@ -4,13 +4,13 @@ const chalk = require('chalk')
 global.domain = "https://" // Isi Domain mu, WEBSITE WAJIB ADA SSL
 global.apikey = '-' // Isi Apikey Pterodactyl mu
 global.capikey = '-' // Isi Apikey Pterodactyl mu
-global.creAtor = "6281234824414@s.whatsapp.net"
-global.owner = ['6281234824414']
-global.ownerNumber = ["6281234824414@s.whatsapp.net"]
-global.nomerOwner = "6281234824414"
-global.namabotnya = 'CPanBot'
-global.namaownernya = 'CPanBot'
-global.packname = 'CPanBot'
+global.creAtor = "6281318916604@s.whatsapp.net"
+global.owner = ['6281318916604']
+global.ownerNumber = ["6281318916605@s.whatsapp.net"]
+global.nomerOwner = "6281318916605"
+global.namabotnya = 'Go-Mar'
+global.namaownernya = 'Fajar'
+global.packname = 'Go-Mar'
 global.author = 'www.cpancloud.com'
 global.sessionName = 'session'
 global.email = 'admin@cpancloud.com' // Ganti dengan emailmu
@@ -30,7 +30,7 @@ owner: '```Owner Only Broo...```',
 group: '```Fitur Digunakan Hanya Untuk Group!!!```',
 private: '```Fitur Digunakan Hanya Untuk Private Chat!!!```',
 bot: '```Fitur Khusus Pengguna Nomor Bot!!!```',
-error: '```Error Kak, Hubungi owner 6281234824414```',
+error: '```Error Kak, Hubungi owner 6281318916604```',
 wait: '```Waittt...```'
 }
 
